@@ -3,7 +3,7 @@
 # Definição da Melhor Ação de Cobrança - Debt Collection
 
 #### Aluno: [Marcos Alonso Guimarães](https://github.com/alonsoguimaraesmarcos)
-#### Orientador: [Nome Sobrenome](https://github.com/link_do_github)
+#### Orientador: [Dr Leonardo Alfredo Forero Mendoza](https://github.com/leofome8)
 
 ---
 
