@@ -9,8 +9,7 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código]() <!-- caso não aplicável, remover esta linha -->
-- [Link para o código](https://github.com/alonsoguimaraesmarcos/modelo_nba_next_best_action/blob/main/trabalho_pos_puc.ipynb)
+- [Link para o código](https://github.com/alonsoguimaraesmarcos/modelo_nba_next_best_action/blob/main/trabalho_pos_puc.ipynb) <!-- caso não aplicável, remover esta linha -->
 ---
 
 ### Resumo
