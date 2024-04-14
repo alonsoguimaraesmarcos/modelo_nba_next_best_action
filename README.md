@@ -1,10 +1,9 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Título do Trabalho
+# Definição da Melhor Ação de Cobrança - Debt Collection
 
-#### Alun(o/a): [Nome Sobrenome](https://github.com/link_do_github).
-#### Orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Aluno: [Marcos Alonso Guimarães](https://github.com/alonsoguimaraesmarcos) .
+#### Orientador: [Nome Sobrenome](https://github.com/link_do_github).
 
 ---
 
@@ -12,37 +11,23 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/link_do_repositorio/nome_do_arquivo_de_codigo). <!-- caso não aplicável, remover esta linha -->
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
-
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
-
 ---
 
 ### Resumo
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+A área de debt collection é considerada crucial na gestão financeira das empresas em que as faturas são geradas após a prestação do serviço. O controle da inadimplência de pagamentos dos consumidores, principalmente em mercados regulados, é vital para os indicadores de saúde financeira das empresas e evitar que débitos se convertam em provisões para créditos com liquidação duvidosa. Isso posto, as ações de cobrança são ferramentas no combate à inadimplência, sendo dividida hoje em ações que podem ser administrativas, digitais e ações de campo: em todas, há uma relação de custo benefício entre sua efetividade e o custo associado a cada uma. Assim, a escolha das melhores ações de cobrança é crucial para tornar o processo de debt collection o mais rentável possível: isto é, arrecadar mais ao menor custo possível. O presente trabalho, portanto, se propõe a indicar as ações de cobrança direcionada por uma cultura data-driven, propondo modelos de Inteligência Artifical no apoio à tomada de decisão através de um problema de classificação da melhor ação de cobrança.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Debt collection area is considered crucial in the financial management of companies where invoices are generated after the provision of the service. Controlling consumer payment delinquency, especially in regulated markets, is vital for companies' financial health indicators and to prevent debts from converting into provisions for doubtful credits. That said, collection actions are tools in combating delinquency, currently divided into administrative, digital, and field actions: in all, there is a cost-benefit relationship between their effectiveness and the associated cost of each. Thus, choosing the best collection actions is crucial to make the debt collection process as profitable as possible: that is, to collect more at the lowest possible cost. This paper, therefore, aims to indicate collection actions directed by a data-driven culture, proposing Artificial Intelligence models to support decision-making through a classification problem of the best collection action.
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 202.190.171
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
